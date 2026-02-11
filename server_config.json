@@ -1,0 +1,1 @@
+{"serverConfig": "{\"mcpServers\":{\"esprainmaker-mcp\":{\"command\":\"uvx\",\"args\":[\"--from\",\"iflow-mcp_espressif-esp-rainmaker-mcp==0.2.1\",\"mcp\",\"run\",\"server.py\"],\"values\":{}}}}"}
